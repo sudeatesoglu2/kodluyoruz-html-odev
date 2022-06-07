@@ -19,6 +19,7 @@
 ---
 ![proje görüntüsü](https://user-images.githubusercontent.com/106230756/172045355-6f5a479b-28be-4672-91ce-3644f2d38afa.png)
 ![proje görüntüsü](https://user-images.githubusercontent.com/106230756/172045469-822a1373-adac-44ed-87bc-ede75b523d5a.png)
-
+---
+[patika.dev link](https://www.patika.dev/tr)
 
 
